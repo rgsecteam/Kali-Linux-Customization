@@ -72,4 +72,4 @@ white="\033[1;37m"
 
 ## Video Tutuorial
 
-[![Kali Linux Customization](https://img.youtube.com/vi/F2320sUPvbI/0.jpg)](https://www.youtube.com/watch?v=F2320sUPvbI)
+[![Kali Linux Customization](https://img.youtube.com/vi/W8J0zmACe80/0.jpg)](https://www.youtube.com/watch?v=W8J0zmACe80)
